@@ -20,8 +20,9 @@ To reduce manual input errors, improve data consistency, and save time by creati
 - Template Overview
 ![Template Overview v1](images/template_v1.png)
 ![Template Overview v2](images/template_v2.png)
-- Validation Logic
+- Validation & Protection Logic
 ![Validation Logic](images/data_validation.png)
+![Protection Logic](images/sheet_protection.png)
 
 ## 🔗 Live Demo
 [Click here to view the example Google Sheet (view only)](https://docs.google.com/spreadsheets/d/18uQnVkegN_wx8pye46UGYXVhewRmbEdVBosE07A5D7M/edit?usp=sharing)
