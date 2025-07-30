@@ -21,7 +21,7 @@ To reduce manual input errors, improve data consistency, and save time by creati
 ![Template Overview v1](images/template_v1.png)
 ![Template Overview v2](images/template_v2.png)
 - Validation Logic
-![Validation Logic](images/data-validation.png)
+![Validation Logic](images/data_validation.png)
 
 ## 🔗 Live Demo
 [Click here to view the example Google Sheet (view only)](https://docs.google.com/spreadsheets/d/18uQnVkegN_wx8pye46UGYXVhewRmbEdVBosE07A5D7M/edit?usp=sharing)
@@ -31,6 +31,6 @@ To reduce manual input errors, improve data consistency, and save time by creati
 ## 📈 Impact
 - Reduced manual errors by creating drop-down and validation controls
 - Saved ~30% admin time through reusable templates
-- Scalable format now used across multiple teams for operational consistency
+- Scalable format now used across multiple teams and departments for operational consistency
 
 ---
