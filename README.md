@@ -17,7 +17,8 @@ To reduce manual input errors, improve data consistency, and save time by creati
 - Version-controlled and auditable format
 
 ## 🖼️ Previews
-![Template Overview](images/template-overview.png)
+![Template Overview v1](images/template_v1.png)
+![Template Overview v2](images/template_v2.png)
 ![Validation Logic](images/data-validation.png)
 
 ## 🔗 Live Demo
